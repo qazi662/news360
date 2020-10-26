@@ -1,14 +1,14 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 
-const LoginScreen = () => {
+const EntertainmentTab = () => {
   return (
     <View>
-      <Text></Text>
+      <Text>EntertainmentTab</Text>
     </View>
   );
 };
 
-export default LoginScreen;
+export default EntertainmentTab;
 
 const styles = StyleSheet.create({});
